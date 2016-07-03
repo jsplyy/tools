@@ -1,3 +1,0 @@
-F:\git\LinesCounter\2048.py
-F:\git\LinesCounter\LinesCounter.py
-D:\mcu_PSDK_test\conformance\adc16
